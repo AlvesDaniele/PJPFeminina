@@ -1,1 +1,0 @@
-# Leia kilobytes (int). Converta para megabytes inteiros com //= 1024.

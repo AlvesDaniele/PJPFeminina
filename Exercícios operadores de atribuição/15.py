@@ -1,1 +1,0 @@
-# Leia um número (int) e eleve ao quadrado.
