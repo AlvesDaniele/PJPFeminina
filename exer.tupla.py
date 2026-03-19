@@ -1,0 +1,5 @@
+Dias = ("segunda", "terça", "quarta", "quinta", "sexta")
+print(Dias)
+print("O primeiro dia da semana é :", Dias [0])
+print("O último dia da semana é:" , Dias [-1])
+print("O tamanho da tupla 'dias' é:", len(Dias))
