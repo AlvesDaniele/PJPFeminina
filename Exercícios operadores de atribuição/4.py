@@ -1,0 +1,1 @@
+# Leia vidas (int) e perdidas (int). Use vidas -= perdidas.

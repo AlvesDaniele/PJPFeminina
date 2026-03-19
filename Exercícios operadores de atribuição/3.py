@@ -1,0 +1,1 @@
+# Leia orçamento (float) e gasto (float). Faça orcamento -= gasto.

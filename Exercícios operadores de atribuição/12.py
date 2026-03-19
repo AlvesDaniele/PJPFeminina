@@ -1,0 +1,1 @@
+# Leia segundos (int) e reduza para minutos inteiros usando //= 60.

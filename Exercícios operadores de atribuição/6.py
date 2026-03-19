@@ -1,0 +1,1 @@
+# Leia preço (float) e fator (float). Faça preco *= fator.

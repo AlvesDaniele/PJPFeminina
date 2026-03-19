@@ -1,0 +1,1 @@
+# Leia estoque (int) e vendidas (int). Atualize com -= e mostre o estoque final.

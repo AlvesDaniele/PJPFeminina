@@ -9,5 +9,6 @@ print(lista)
 media = [nota1 + nota2 + nota3 /3 ]
 print(media)
 
-menornota = [2]
 nota4 = float(input('Digite uma nota : ' ))
+
+

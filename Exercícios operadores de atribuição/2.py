@@ -1,0 +1,1 @@
+# Leia um contador (int) e um passo (int). Faça contador += passo duas vezes. Mostre o resultado.

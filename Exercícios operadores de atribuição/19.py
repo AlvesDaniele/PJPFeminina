@@ -1,0 +1,1 @@
+# Leia estoque (int). Subtraia venda com -=, depois reposição com +=, por fim %= 6.

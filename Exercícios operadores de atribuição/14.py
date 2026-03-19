@@ -1,0 +1,1 @@
+# Leia dias (int). Mantenha apenas os dias restantes após converter para semanas (7 dias) usando %=.

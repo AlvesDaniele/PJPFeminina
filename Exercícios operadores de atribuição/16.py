@@ -1,0 +1,1 @@
+# Leia n (float) e p (int). Aplique n **= p.

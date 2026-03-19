@@ -1,0 +1,1 @@
+# Leia base de pontos (int) e combos (int). Aplique *=.

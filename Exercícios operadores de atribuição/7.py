@@ -1,0 +1,1 @@
+# Leia um número (int) e multiplique por 3 usando *=.

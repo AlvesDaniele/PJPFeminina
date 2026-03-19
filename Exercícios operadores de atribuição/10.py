@@ -1,0 +1,1 @@
+# Leia total (float) e pessoas (int). Use /= para dividir igualmente.
